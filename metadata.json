@@ -1,0 +1,6 @@
+{
+  "name": "FlexBuddy – Smart Team Collaboration",
+  "description": "AI-powered team collaboration platform that helps students and professionals find the best people to collaborate with based on complementary skills and project goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
